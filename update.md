@@ -9,6 +9,7 @@ Update
 		* 	`package.json`
 		*	`README.md` (multiple places)
 		*	`lib/index.js` (possibly multiple places)
+		* 	at top of the repo page on Github
 2. note if a module has been tagged and "released"; if not, note this, as this will need to be done after the module has been fully updated
 3. 
 
@@ -20,7 +21,8 @@ Update
 2. command for viewing an HTML version of the coverage report should be
 	``` bash
 	$ make view-cov
-	in usage section, remove the line "To use the module"
+	```
+3. in usage section, remove the line "To use the module"
 4. API documentation/use should follow precedent established in later modules.
 	- 	e.g., compare [compute-sum](https://github.com/compute-io/sum) with [compute-prod](https://github.com/compute-io/prod)
 	-	function options should be detailed and documented
