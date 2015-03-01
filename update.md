@@ -19,9 +19,11 @@ Update
 
 1. update mocha link in tests#unit section: http://mochajs.org
 2. command for viewing an HTML version of the coverage report should be
+
 	``` bash
 	$ make view-cov
 	```
+	
 3. in usage section, remove the line "To use the module"
 4. API documentation/use should follow precedent established in later modules.
 	- 	e.g., compare [compute-sum](https://github.com/compute-io/sum) with [compute-prod](https://github.com/compute-io/prod)
