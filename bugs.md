@@ -1,12 +1,12 @@
 Bugs
 ====
 
-- [ ] range
+- [ ] [range](https://github.com/compute-io/range)
 	-	if empty input `array`, should return `null`.
-- [ ] median
+- [ ] [median](https://github.com/compute-io/median)
 	-	if empty input `array`, should return `null`.
-- [ ] quantiles
+- [ ] [quantiles](https://github.com/compute-io/quantiles)
 	-	if empty input `array`, should return `null`.
-- [ ] incrspace
+- [ ] [incrspace](https://github.com/compute-io/incrspace)
 	-	increment allowed to be 0!!! allows for infinite length. May want to check also that len is not infinite in the event of a small enough incr. Should top out at maximum array length. Throw error: maximum array length exceeded.
  
