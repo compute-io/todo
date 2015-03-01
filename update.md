@@ -11,7 +11,10 @@ Update
 		*	`lib/index.js` (possibly multiple places)
 		* 	at top of the repo page on Github
 2. note if a module has been tagged and "released"; if not, note this, as this will need to be done after the module has been fully updated
-3. 
+3. any modules which mutate an input array should be noted
+	-	if a non-numeric array, e.g., an object array, then should __not__ mutate
+	-	if a numeric array, then fcn should include option to mutate or to return a copy; e.g., `options.copy = true`
+4. 
 
 
 
@@ -98,6 +101,6 @@ The `Makefile` included in the `update` directory should replace any existing fi
 	``` javascript
 	/* global require, describe, it */
 	```
-	
+
 	- 	Note: if other globals are used, e.g., `beforeEach`, `after`, etc, these should also be included. Check the lint errors.
 3. 
