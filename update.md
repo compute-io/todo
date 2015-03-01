@@ -94,8 +94,10 @@ The `Makefile` included in the `update` directory should replace any existing fi
 
 1. move `'use strict'` from inside the `describe` block to the top of file
 2. above the `'use strict'` statement declare the global variables (for jshint)
+
 	``` javascript
 	/* global require, describe, it */
 	```
+	
 	- 	Note: if other globals are used, e.g., `beforeEach`, `after`, etc, these should also be included. Check the lint errors.
 3. 
