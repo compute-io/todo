@@ -23,13 +23,13 @@ Update
 	``` bash
 	$ make view-cov
 	```
-	
+
 3. in usage section, remove the line "To use the module"
 4. API documentation/use should follow precedent established in later modules.
 	- 	e.g., compare [compute-sum](https://github.com/compute-io/sum) with [compute-prod](https://github.com/compute-io/prod)
 	-	function options should be detailed and documented
 		* e.g., function accessors where applicable
-5. `move `---` from above the copyright section to above the license section
+5. move `---` from above the copyright section to above the license section
 6. example in examples section should begin by using `require` to load the module (i.e., include the `require` statement)
 7. 
 
@@ -46,7 +46,7 @@ Every repository should include the following dotfiles...
 6. `.npmignore`
 7. `.travis.yml`
 
-When updating modules, you are encouraged to simply replace any existing dotfile of the same name with a copy its corresponding file in the `update` directory of this repository. These dotfiles are the most recent iteration.
+When updating modules, you are encouraged to simply replace any existing dotfile of the same name with a copy of its corresponding file in the `update` directory of this repository. These dotfiles are the most recent iteration.
 
 
 ### Makefile
@@ -60,12 +60,14 @@ The `Makefile` included in the `update` directory should replace any existing fi
 2. verify keywords
 3. update module description according to general task #1 above.
 4. include `jshint` and `jshint-stylish` as `devDependencies`
+
 	``` javascript
 	...,
     "jshint": "2.x.x",
     "jshint-stylish": "^1.0.0",
 	...
 	```
+
 5.
 
 
@@ -84,7 +86,7 @@ The `Makefile` included in the `update` directory should replace any existing fi
 
 1. insert `'use strict'` at the top of the file
 2. where possible, use compute-io modules (include as devDepedencies)
-	e.g., when computing the sum, min, max, mean, etc
+	- 	e.g., when computing the sum, min, max, mean, etc
 3.
 
 
