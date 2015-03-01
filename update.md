@@ -9,7 +9,8 @@ Update
 		* 	`package.json`
 		*	`README.md` (multiple places)
 		*	`lib/index.js` (possibly multiple places)
-2. 
+2. note if a module has been tagged and "released"; if not, note this, as this will need to be done after the module has been fully updated
+3. 
 
 
 
