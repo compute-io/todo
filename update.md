@@ -14,7 +14,9 @@ Update
 3. any modules which mutate an input array should be noted
 	-	if a non-numeric array, e.g., an object array, then should __not__ mutate (well, maybe not)
 	-	if a numeric array, then fcn should include option to mutate or to return a copy; e.g., `options.copy = true`
-4. 
+4. when updating do __not__ publish, bump versions, or push a new tag
+	-	once all modules have been updated, each one will be accessed, and its new version determined
+5. 
 
 
 

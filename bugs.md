@@ -9,4 +9,7 @@ Bugs
 	-	if empty input `array`, should return `null`.
 - [ ] [incrspace](https://github.com/compute-io/incrspace)
 	-	increment allowed to be 0!!! allows for infinite length. May want to check also that len is not infinite in the event of a small enough incr. Should top out at maximum array length. Throw error: maximum array length exceeded.
+- [ ] [lcm](https://github.com/compute-io/lcm)
+	-	README calls `gcd` rather than `lcm` in #usage
+
  
