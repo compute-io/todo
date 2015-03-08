@@ -73,7 +73,7 @@ The `Makefile` included in the `update` directory should replace any existing fi
 	...
 	```
 
-5.
+5. Add any validate.io modules used to dependencies
 
 
 
