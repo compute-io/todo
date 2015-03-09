@@ -73,7 +73,7 @@ The `Makefile` included in the `update` directory should replace any existing fi
 	...
 	```
 
-5. Add any validate.io modules used to dependencies
+5. Ensure any validate.io modules added are listed as dependencies in the package.json file. (Will be added automatically if “npm install <module name> --save” is used when installing the modules.)
 
 
 
