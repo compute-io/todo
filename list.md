@@ -48,7 +48,7 @@ List
 - [ ] [idr](https://github.com/compute-io/idr)
 - [ ] [iqr](https://github.com/compute-io/iqr)
 - [ ] [quantiles](https://github.com/compute-io/quantiles)
-- [ ] [median](https://github.com/compute-io/median)
+- [x] [median](https://github.com/compute-io/median)
 - [ ] [midhinge](https://github.com/compute-io/midhinge)
 - [ ] [add](https://github.com/compute-io/add)
 - [ ] [subtract](https://github.com/compute-io/subtract)
