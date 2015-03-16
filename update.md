@@ -16,7 +16,11 @@ Update
 	-	if a numeric array, then fcn should include option to mutate or to return a copy; e.g., `options.copy = true`
 4. when updating do __not__ publish, bump versions, or push a new tag
 	-	once all modules have been updated, each one will be accessed, and its new version determined
-5. 
+5. ensure all dependencies are up-to-date
+	-	this can be done by clicking on the `dependencies` badge in the `README`
+	-	once on the David site, check both the `dependencies` and the `devDependencies`
+	-	__NOTE__: when updating dependencies, David can take a while to register the changes
+6. 
 
 
 

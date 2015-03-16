@@ -133,6 +133,12 @@ List
 	-	changes may be minimal
 - [ ] [mean](https://github.com/compute-io/mean)
 	-	needs some code ported to flow
+- [ ] [cprod](https://github.com/compute-io/cprod)
+	-	copy option => option to mutate input array; default `copy = true`.
+- [ ] [mprod](https://github.com/compute-io/mprod)
+	-	copy option => option to mutate input array; default `copy = true`.
+- [ ] [tversky-index](https://github.com/compute-io/tversky-index)
+	-	update deps/devdeps.
 
 
 
