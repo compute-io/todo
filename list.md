@@ -40,7 +40,7 @@ List
 - [ ] [incrmax](https://github.com/compute-io/incrmax)
 - [ ] [incrmin](https://github.com/compute-io/incrmin)
 - [ ] [shuffle](https://github.com/compute-io/shuffle)
-- [ ] [msum](https://github.com/compute-io/msum)
+- [x] [msum](https://github.com/compute-io/msum)
 - [ ] [mmin](https://github.com/compute-io/mmin)
 - [ ] [mmax](https://github.com/compute-io/mmax)
 - [ ] [unique](https://github.com/compute-io/unique/blob/master/lib/index.js)
@@ -133,7 +133,6 @@ List
 	-	changes may be minimal
 - [ ] [mean](https://github.com/compute-io/mean)
 	-	needs some code ported to flow
-
 
 
 

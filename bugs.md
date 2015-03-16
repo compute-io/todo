@@ -14,6 +14,7 @@ Bugs
 - [ ] [unique](https://github.com/compute-io/unique)
 	-	should return a reference to the input `array`
 	-	should provide `copy` option
+	-	should provide an accessor option (for accessing numeric values)
 - [ ] [linspace](https://github.com/compute-io/linspace)
 	-	when number of elements equals 1, returns the upper bound
 	-	handle 0 element case
