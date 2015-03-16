@@ -17,7 +17,7 @@ List
 - [ ] [erfinv](https://github.com/compute-io/erfinv)
 - [ ] [erfcinv](https://github.com/compute-io/erfcinv)
 - [ ] [reverse](https://github.com/compute-io/reverse)
-- [ ] [range](https://github.com/compute-io/range)
+- [x] [range](https://github.com/compute-io/range)
 - [ ] [erf](https://github.com/compute-io/erf)
 - [ ] [signum](https://github.com/compute-io/signum)
 - [ ] [nanmean](https://github.com/compute-io/nanmean)

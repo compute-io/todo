@@ -1,7 +1,7 @@
 Bugs
 ====
 
-- [ ] [range](https://github.com/compute-io/range)
+- [x] [range](https://github.com/compute-io/range)
 	-	if empty input `array`, should return `null`.
 - [x] [median](https://github.com/compute-io/median)
 	-	if empty input `array`, should return `null`.
