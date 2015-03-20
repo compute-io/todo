@@ -4,7 +4,7 @@ List
 > List of modules needing updating.
 
 - [ ] [variance](https://github.com/compute-io/variance)
-- [ ] [sum](https://github.com/compute-io/sum)
+- [x] [sum](https://github.com/compute-io/sum)
 - [ ] [stdev](https://github.com/compute-io/stdev)
 - [ ] [mode](https://github.com/compute-io/mode)
 - [ ] [hypot](https://github.com/compute-io/hypot)
@@ -164,5 +164,5 @@ List
 - [ ] [lcs](https://github.com/compute-io/lcs)
 - [ ] [lcgshuffle](https://github.com/compute-io/lcgshuffle)
 - [ ] [data-frame](https://github.com/compute-io/data-frame)
-- [ ] [truncmean](https://github.com/compute-io/truncmean)
+- [x] [truncmean](https://github.com/compute-io/truncmean)
 
