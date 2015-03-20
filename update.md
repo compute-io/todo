@@ -20,7 +20,7 @@ Update
 	-	this can be done by clicking on the `dependencies` badge in the `README`
 	-	once on the David site, check both the `dependencies` and the `devDependencies`
 	-	__NOTE__: when updating dependencies, David can take a while to register the changes
-6. 
+6. Make sure copyright dates are up to date in README, LICENSE and lib/index.js 
 
 
 
