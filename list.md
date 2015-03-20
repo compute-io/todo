@@ -117,7 +117,7 @@ List
 	-	changes may be minimal
 - [ ] [incrdatespace](https://github.com/compute-io/incrdatespace)
 	-	changes may be minimal 
-- [ ] [mmean](https://github.com/compute-io/mmean)
+- [x] [mmean](https://github.com/compute-io/mmean)
 	-	accessor
 - [ ] [mvariance](https://github.com/compute-io/mvariance)
 	-	accessor
