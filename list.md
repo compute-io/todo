@@ -164,5 +164,5 @@ List
 - [ ] [lcs](https://github.com/compute-io/lcs)
 - [ ] [lcgshuffle](https://github.com/compute-io/lcgshuffle)
 - [ ] [data-frame](https://github.com/compute-io/data-frame)
-- [ ] [truncmean](https://github.com/compute-io/truncmean)
+- [x] [truncmean](https://github.com/compute-io/truncmean)
 
