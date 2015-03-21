@@ -21,7 +21,7 @@ List
 - [ ] [erf](https://github.com/compute-io/erf)
 - [ ] [signum](https://github.com/compute-io/signum)
 - [ ] [nanmean](https://github.com/compute-io/nanmean)
-- [ ] [nansum](https://github.com/compute-io/nansum)
+- [x] [nansum](https://github.com/compute-io/nansum)
 - [ ] [nanvariance](https://github.com/compute-io/nanvariance)
 - [ ] [nanstdev](https://github.com/compute-io/nanstdev)
 - [ ] [diff](https://github.com/compute-io/diff)
