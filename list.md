@@ -3,7 +3,7 @@ List
 
 > List of modules needing updating.
 
-- [ ] [variance](https://github.com/compute-io/variance)
+- [x] [variance](https://github.com/compute-io/variance)
 - [x] [sum](https://github.com/compute-io/sum)
 - [ ] [stdev](https://github.com/compute-io/stdev)
 - [ ] [mode](https://github.com/compute-io/mode)
