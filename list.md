@@ -109,9 +109,9 @@ List
 		*	or fcn array where array length must equal number of input arrays
 - [ ] [pcorr](https://github.com/compute-io/pcorr)
 	-	accessors
-- [ ] [zip](https://github.com/compute-io/zip)
+- [x] [zip](https://github.com/compute-io/zip)
 	-	changes may be minimal
-- [ ] [unzip](https://github.com/compute-io/unzip)
+- [x] [unzip](https://github.com/compute-io/unzip)
 	-	changes may be minimal
 - [ ] [datespace](https://github.com/compute-io/datespace)
 	-	changes may be minimal
@@ -138,7 +138,7 @@ List
 - [ ] [mprod](https://github.com/compute-io/mprod)
 	-	copy option => option to mutate input array; default `copy = true`.
 - [ ] [tversky-index](https://github.com/compute-io/tversky-index)
-	-	update deps/devdeps.
+	-	requires compute modules to be published.
 
 
 
