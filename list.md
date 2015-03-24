@@ -25,6 +25,8 @@ List
 - [ ] [nanvariance](https://github.com/compute-io/nanvariance)
 - [ ] [nanstdev](https://github.com/compute-io/nanstdev)
 - [ ] [diff](https://github.com/compute-io/diff)
+	-	ability to specify `lag`?
+	-	ability to specify `order`?
 - [ ] [hmean](https://github.com/compute-io/hmean)
 - [ ] [gmean](https://github.com/compute-io/gmean)
 - [ ] [nangmean](https://github.com/compute-io/nangmean)
