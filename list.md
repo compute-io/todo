@@ -168,4 +168,6 @@ List
 - [ ] [data-frame](https://github.com/compute-io/data-frame)
 - [x] [truncmean](https://github.com/compute-io/truncmean)
 - [x] [indexspace](https://github.com/compute-io/indexspace)
+- [ ] [anagram-hash](https://github.com/compute-io/anagram-hash)
+	-	see TODO
 
