@@ -28,7 +28,7 @@ List
 	-	ability to specify `lag`?
 	-	ability to specify `order`?
 - [ ] [hmean](https://github.com/compute-io/hmean)
-- [ ] [gmean](https://github.com/compute-io/gmean)
+- [x] [gmean](https://github.com/compute-io/gmean)
 - [ ] [nangmean](https://github.com/compute-io/nangmean)
 - [ ] [nanhmean](https://github.com/compute-io/nanhmean)
 - [ ] [l1norm](https://github.com/compute-io/l1norm)
