@@ -109,6 +109,15 @@ List
 	-	accessors
 		*	single accessor (same for all arrays)
 		*	or fcn array where array length must equal number of input arrays
+		*	no => single accessor, but provide array index to accessor along with value
+
+		``` javascript
+		function accessor( d, i, j ) {
+			// d => value
+			// i => value index
+			// j => array index
+		}
+		```
 - [ ] [pcorr](https://github.com/compute-io/pcorr)
 	-	accessors
 - [x] [zip](https://github.com/compute-io/zip)
