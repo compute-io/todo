@@ -20,7 +20,7 @@ Update
 	-	this can be done by clicking on the `dependencies` badge in the `README`
 	-	once on the David site, check both the `dependencies` and the `devDependencies`
 	-	__NOTE__: when updating dependencies, David can take a while to register the changes
-6. Make sure copyright dates are up to date in README, LICENSE and lib/index.js 
+6. Make sure copyright dates are up to date in README and LICENSE
 
 
 
@@ -77,7 +77,19 @@ The `Makefile` included in the `update` directory should replace any existing fi
 	...
 	```
 
-5. Ensure any validate.io modules added are listed as dependencies in the package.json file, or as devDependencies if used in test.js. (Will be added automatically if “npm install <module name> --save” or “npm install <name> --save-dev" is used when installing the modules.)
+5. Ensure any validate.io modules added are listed as dependencies in the package.json file, or as devDependencies if used in test.js. Dependencies are included automatically if 
+
+	``` bash
+	$ npm install <module name> --save
+	```
+
+	or
+
+	``` bash
+	$ npm install <name> --save-dev
+	```
+
+	are used when installing the modules.
 
 
 
@@ -88,7 +100,21 @@ The `Makefile` included in the `update` directory should replace any existing fi
 	- 	see more recent modules for an example; e.g., [nanquantiles](https://github.com/compute-io/nanquantiles)
 3. where applicable, support accessor option
 	-	see more recent modules for examples; e.g., [prod](https://gitub.com/compute-io/prod) and [nanmedian](https://github.com/compute-io/nanmedian)
-4. 
+4. Remove the file preamble; i.e., the introductory comment section
+
+	``` javascript
+	/**
+	*	NAME
+	*
+	*	DESCRIPTION:
+	.
+	.
+	.
+	*/
+	```
+
+	This also applies for any other files in the `/lib` directory.
+	
 
 
 ### examples/index.js
