@@ -19,7 +19,7 @@ List
 - [ ] [reverse](https://github.com/compute-io/reverse)
 - [x] [range](https://github.com/compute-io/range)
 - [ ] [erf](https://github.com/compute-io/erf)
-- [ ] [signum](https://github.com/compute-io/signum)
+- [x] [signum](https://github.com/compute-io/signum)
 - [ ] [nanmean](https://github.com/compute-io/nanmean)
 - [x] [nansum](https://github.com/compute-io/nansum)
 - [ ] [nanvariance](https://github.com/compute-io/nanvariance)
