@@ -77,7 +77,7 @@ List
 - [ ] [isnan](https://github.com/compute-io/isnan)
 - [ ] [linspace](https://github.com/compute-io/linspace)
 - [ ] [logspace](https://github.com/compute-io/logspace)
-- [ ] [incrspace](https://github.com/compute-io/incrspace)
+- [x] [incrspace](https://github.com/compute-io/incrspace)
 - [ ] [midmean](https://github.com/compute-io/midmean)
 - [ ] [isinf](https://github.com/compute-io/isinf)
 - [ ] [isnumeric](https://github.com/compute-io/isnumeric)
