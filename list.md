@@ -102,7 +102,7 @@ List
 - [ ] [argnammax](https://github.com/compute-io/argnanmax)
 - [ ] [nanmin](https://github.com/compute-io/nanmin)
 - [ ] [nanmax](https://github.com/compute-io/nanmax)
-- [ ] [gcd](https://github.com/compute-io/gcd)
+- [x] [gcd](https://github.com/compute-io/gcd)
 	-	accessor
 - [ ] [lcm](https://github.com/compute-io/lcm)
 - [ ] [covariance](https://github.com/compute-io/covariance)
