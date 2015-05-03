@@ -8,7 +8,7 @@ List
 - [ ] [stdev](https://github.com/compute-io/stdev)
 - [ ] [mode](https://github.com/compute-io/mode)
 - [ ] [hypot](https://github.com/compute-io/hypot)
-- [ ] [hamming](https://github.com/compute-io/hamming)
+- [x] [hamming](https://github.com/compute-io/hamming)
 - [ ] [wmean](https://github.com/compute-io/wmean)
 - [ ] [skewness](https://github.com/compute-io/skewness)
 - [ ] [kurtosis](https://github.com/compute-io/kurtosis)
