@@ -144,7 +144,7 @@ List
 	-	changes may be minimal
 - [ ] [mean](https://github.com/compute-io/mean)
 	-	needs some code ported to flow
-- [ ] [cprod](https://github.com/compute-io/cprod)
+- [x] [cprod](https://github.com/compute-io/cprod)
 	-	copy option => option to mutate input array; default `copy = true`.
 - [ ] [mprod](https://github.com/compute-io/mprod)
 	-	copy option => option to mutate input array; default `copy = true`.
@@ -160,6 +160,7 @@ List
 > List of modules needing to be finished
 
 - [ ] [factorial](https://github.com/compute-io/factorial)
+	-	for non-integer values, requires gamma
 - [ ] [mmedian](https://github.com/compute-io/mmedian)
 - [ ] [nanlpnorm](https://github.com/compute-io/nanlpnorm)
 - [ ] [nanintersect](https://github.com/compute-io/nanintersect)
