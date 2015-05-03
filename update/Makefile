@@ -5,13 +5,13 @@
 # Set the node.js environment to test:
 NODE_ENV ?= test
 
-# Platform
-PLATFORM ?= $(shell uname -o)
+# Kernel name:
+KERNEL ?= $(shell uname -s)
 
-ifeq ($(PLATFORM), GNU/Linux)
-	OPEN ?= xdg-open
-else
+ifeq ($(KERNEL), Darwin)
 	OPEN ?= open
+else
+	OPEN ?= xdg-open
 endif
 
 # NOTES #
