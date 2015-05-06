@@ -16,7 +16,7 @@ List
 - [ ] [polynomial](https://github.com/compute-io/polynomial)
 - [ ] [erfinv](https://github.com/compute-io/erfinv)
 - [ ] [erfcinv](https://github.com/compute-io/erfcinv)
-- [ ] [reverse](https://github.com/compute-io/reverse)
+- [x] [reverse](https://github.com/compute-io/reverse)
 - [x] [range](https://github.com/compute-io/range)
 - [ ] [erf](https://github.com/compute-io/erf)
 - [x] [signum](https://github.com/compute-io/signum)
