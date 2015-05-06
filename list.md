@@ -13,7 +13,7 @@ List
 - [ ] [skewness](https://github.com/compute-io/skewness)
 - [ ] [kurtosis](https://github.com/compute-io/kurtosis)
 - [ ] [erfc](https://github.com/compute-io/erfc)
-- [ ] [polynomial](https://github.com/compute-io/polynomial)
+- [x] [polynomial](https://github.com/compute-io/polynomial)
 - [ ] [erfinv](https://github.com/compute-io/erfinv)
 - [ ] [erfcinv](https://github.com/compute-io/erfcinv)
 - [x] [reverse](https://github.com/compute-io/reverse)
