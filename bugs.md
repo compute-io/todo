@@ -10,7 +10,7 @@ Bugs
 - [x] [incrspace](https://github.com/compute-io/incrspace)
 	-	increment allowed to be 0!!! allows for infinite length. May want to check also that len is not infinite in the event of a small enough incr. Should top out at maximum array length. Throw error: maximum array length exceeded.
 	-	reassignment of input argument while mentioning `arguments` in fcn body
-- [ ] [lcm](https://github.com/compute-io/lcm)
+- [x] [lcm](https://github.com/compute-io/lcm)
 	-	README calls `gcd` rather than `lcm` in #usage
 - [ ] [unique](https://github.com/compute-io/unique)
 	-	should return a reference to the input `array`

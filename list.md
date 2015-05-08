@@ -104,7 +104,7 @@ List
 - [ ] [nanmax](https://github.com/compute-io/nanmax)
 - [x] [gcd](https://github.com/compute-io/gcd)
 	-	accessor
-- [ ] [lcm](https://github.com/compute-io/lcm)
+- [x] [lcm](https://github.com/compute-io/lcm)
 - [ ] [covariance](https://github.com/compute-io/covariance)
 	-	accessors
 		*	single accessor (same for all arrays)
