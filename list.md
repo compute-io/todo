@@ -71,7 +71,6 @@ List
 - [ ] [lmidmean](https://github.com/compute-io/lmidmean)
 - [ ] [lt](https://github.com/compute-io/lt)
 - [ ] [leq](https://github.com/compute-io/leq)
-- [ ] [geq](https://github.com/compute-io/geq)
 - [ ] [eq](https://github.com/compute-io/eq)
 - [ ] [neq](https://github.com/compute-io/neq)
 - [ ] [incrmean](https://github.com/compute-io/incrmean)
