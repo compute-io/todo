@@ -23,7 +23,6 @@ List
 - [ ] [nangmean](https://github.com/compute-io/nangmean)
 - [ ] [nanhmean](https://github.com/compute-io/nanhmean)
 - [ ] [l1norm](https://github.com/compute-io/l1norm)
-- [ ] [l2norm](https://github.com/compute-io/l2norm)
 - [ ] [qmean](https://github.com/compute-io/qmean)
 - [ ] [nanqmean](https://github.com/compute-io/nanqmean)
 - [ ] [linfnorm](https://github.com/compute-io/linfnorm)
