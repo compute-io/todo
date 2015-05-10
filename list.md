@@ -3,32 +3,23 @@ List
 
 > List of modules needing updating.
 
-- [x] [variance](https://github.com/compute-io/variance)
-- [x] [sum](https://github.com/compute-io/sum)
 - [ ] [stdev](https://github.com/compute-io/stdev)
 - [ ] [mode](https://github.com/compute-io/mode)
 - [ ] [hypot](https://github.com/compute-io/hypot)
-- [x] [hamming](https://github.com/compute-io/hamming)
 - [ ] [wmean](https://github.com/compute-io/wmean)
 - [ ] [skewness](https://github.com/compute-io/skewness)
 - [ ] [kurtosis](https://github.com/compute-io/kurtosis)
 - [ ] [erfc](https://github.com/compute-io/erfc)
-- [x] [polynomial](https://github.com/compute-io/polynomial)
 - [ ] [erfinv](https://github.com/compute-io/erfinv)
 - [ ] [erfcinv](https://github.com/compute-io/erfcinv)
-- [x] [reverse](https://github.com/compute-io/reverse)
-- [x] [range](https://github.com/compute-io/range)
 - [ ] [erf](https://github.com/compute-io/erf)
-- [x] [signum](https://github.com/compute-io/signum)
 - [ ] [nanmean](https://github.com/compute-io/nanmean)
-- [x] [nansum](https://github.com/compute-io/nansum)
 - [ ] [nanvariance](https://github.com/compute-io/nanvariance)
 - [ ] [nanstdev](https://github.com/compute-io/nanstdev)
 - [ ] [diff](https://github.com/compute-io/diff)
 	-	ability to specify `lag`?
 	-	ability to specify `order`?
 - [ ] [hmean](https://github.com/compute-io/hmean)
-- [x] [gmean](https://github.com/compute-io/gmean)
 - [ ] [nangmean](https://github.com/compute-io/nangmean)
 - [ ] [nanhmean](https://github.com/compute-io/nanhmean)
 - [ ] [l1norm](https://github.com/compute-io/l1norm)
@@ -42,7 +33,6 @@ List
 - [ ] [incrmax](https://github.com/compute-io/incrmax)
 - [ ] [incrmin](https://github.com/compute-io/incrmin)
 - [ ] [shuffle](https://github.com/compute-io/shuffle)
-- [x] [msum](https://github.com/compute-io/msum)
 - [ ] [mmin](https://github.com/compute-io/mmin)
 - [ ] [mmax](https://github.com/compute-io/mmax)
 - [ ] [unique](https://github.com/compute-io/unique/blob/master/lib/index.js)
@@ -50,7 +40,6 @@ List
 - [ ] [idr](https://github.com/compute-io/idr)
 - [ ] [iqr](https://github.com/compute-io/iqr)
 - [ ] [quantiles](https://github.com/compute-io/quantiles)
-- [x] [median](https://github.com/compute-io/median)
 - [ ] [midhinge](https://github.com/compute-io/midhinge)
 - [ ] [add](https://github.com/compute-io/add)
 - [ ] [subtract](https://github.com/compute-io/subtract)
@@ -63,9 +52,6 @@ List
 - [ ] [cmin](https://github.com/compute-io/cmin)
 - [ ] [find](https://github.com/compute-io/find)
 - [ ] [midrange](https://github.com/compute-io/midrange)
-- [ ] [dot](https://github.com/compute-io/dot)
-	*	options needs to include x and y accessor options! Possible that only 1 accessor will be provided, etc.
-	*	or just a single accessor for both ???
 - [ ] [cross](https://github.com/compute-io/cross)
 - [ ] [sqrt](https://github.com/compute-io/sqrt)
 - [ ] [roundn](https://github.com/compute-io/roundn)
@@ -77,7 +63,6 @@ List
 - [ ] [isnan](https://github.com/compute-io/isnan)
 - [ ] [linspace](https://github.com/compute-io/linspace)
 - [ ] [logspace](https://github.com/compute-io/logspace)
-- [x] [incrspace](https://github.com/compute-io/incrspace)
 - [ ] [midmean](https://github.com/compute-io/midmean)
 - [ ] [isinf](https://github.com/compute-io/isinf)
 - [ ] [isnumeric](https://github.com/compute-io/isnumeric)
@@ -102,14 +87,8 @@ List
 - [ ] [argnammax](https://github.com/compute-io/argnanmax)
 - [ ] [nanmin](https://github.com/compute-io/nanmin)
 - [ ] [nanmax](https://github.com/compute-io/nanmax)
-- [x] [gcd](https://github.com/compute-io/gcd)
-	-	accessor
-- [x] [lcm](https://github.com/compute-io/lcm)
 - [ ] [covariance](https://github.com/compute-io/covariance)
-	-	accessors
-		*	single accessor (same for all arrays)
-		*	or fcn array where array length must equal number of input arrays
-		*	no => single accessor, but provide array index to accessor along with value
+	-	accessor
 
 		``` javascript
 		function accessor( d, i, j ) {
@@ -120,16 +99,10 @@ List
 		```
 - [ ] [pcorr](https://github.com/compute-io/pcorr)
 	-	accessors
-- [x] [zip](https://github.com/compute-io/zip)
-	-	changes may be minimal
-- [x] [unzip](https://github.com/compute-io/unzip)
-	-	changes may be minimal
 - [ ] [datespace](https://github.com/compute-io/datespace)
 	-	changes may be minimal
 - [ ] [incrdatespace](https://github.com/compute-io/incrdatespace)
 	-	changes may be minimal 
-- [x] [mmean](https://github.com/compute-io/mmean)
-	-	accessor
 - [ ] [mvariance](https://github.com/compute-io/mvariance)
 	-	accessor
 - [ ] [mstdev](https://github.com/compute-io/mstdev)
@@ -144,8 +117,6 @@ List
 	-	changes may be minimal
 - [ ] [mean](https://github.com/compute-io/mean)
 	-	needs some code ported to flow
-- [x] [cprod](https://github.com/compute-io/cprod)
-	-	copy option => option to mutate input array; default `copy = true`.
 - [ ] [mprod](https://github.com/compute-io/mprod)
 	-	copy option => option to mutate input array; default `copy = true`.
 - [ ] [tversky-index](https://github.com/compute-io/tversky-index)
@@ -176,8 +147,6 @@ List
 - [ ] [lcs](https://github.com/compute-io/lcs)
 - [ ] [lcgshuffle](https://github.com/compute-io/lcgshuffle)
 - [ ] [data-frame](https://github.com/compute-io/data-frame)
-- [x] [truncmean](https://github.com/compute-io/truncmean)
-- [x] [indexspace](https://github.com/compute-io/indexspace)
 - [ ] [anagram-hash](https://github.com/compute-io/anagram-hash)
 	-	see TODO
 
