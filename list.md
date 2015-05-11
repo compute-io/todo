@@ -69,7 +69,6 @@ List
 - [ ] [isinteger](https://github.com/compute-io/isinteger)
 - [ ] [umidmean](https://github.com/compute-io/umidmean)
 - [ ] [lmidmean](https://github.com/compute-io/lmidmean)
-- [ ] [leq](https://github.com/compute-io/leq)
 - [ ] [eq](https://github.com/compute-io/eq)
 - [ ] [neq](https://github.com/compute-io/neq)
 - [ ] [incrmean](https://github.com/compute-io/incrmean)
