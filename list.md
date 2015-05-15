@@ -40,9 +40,6 @@ List
 - [ ] [iqr](https://github.com/compute-io/iqr)
 - [ ] [quantiles](https://github.com/compute-io/quantiles)
 - [ ] [midhinge](https://github.com/compute-io/midhinge)
-- [ ] [add](https://github.com/compute-io/add)
-- [ ] [subtract](https://github.com/compute-io/subtract)
-- [ ] [divide](https://github.com/compute-io/divide)
 - [ ] [multiply](https://github.com/compute-io/multiply)
 - [ ] [trimean](https://github.com/compute-io/trimean)
 - [ ] [quantile](https://github.com/compute-io/quantile)
@@ -144,4 +141,6 @@ List
 - [ ] [data-frame](https://github.com/compute-io/data-frame)
 - [ ] [anagram-hash](https://github.com/compute-io/anagram-hash)
 	-	see TODO
+	- 	move to dstructs
+
 
