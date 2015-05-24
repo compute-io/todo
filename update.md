@@ -91,6 +91,16 @@ The `Makefile` included in the `update` directory should replace any existing fi
 
 	are used when installing the modules.
 
+6. Change the `licenses` attribute to 
+
+	``` javascript
+	...,
+	'license': 'MIT',
+	...
+	```
+
+	The licenses `array` has been deprecated in favor of using an [SPDX identifier](https://docs.npmjs.com/files/package.json#license).
+
 
 
 ### lib/index.js
