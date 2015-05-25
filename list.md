@@ -96,8 +96,6 @@ List
 	-	accessor
 - [ ] [mstdev](https://github.com/compute-io/mstdev)
 	-	accessor
-- [ ] [incrmmean](https://github.com/compute-io/incrmmean)
-	-	changes may be minimal
 - [ ] [incrmstdev](https://github.com/compute-io/incrmstdev)
 	-	changes may be minimal
 - [ ] [incrmvariance](https://github.com/compute-io/incrmvariance)
