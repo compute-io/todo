@@ -96,8 +96,6 @@ List
 	-	accessor
 - [ ] [mstdev](https://github.com/compute-io/mstdev)
 	-	accessor
-- [ ] [incrmstdev](https://github.com/compute-io/incrmstdev)
-	-	changes may be minimal
 - [ ] [mean](https://github.com/compute-io/mean)
 	-	needs some code ported to flow
 - [ ] [mprod](https://github.com/compute-io/mprod)
