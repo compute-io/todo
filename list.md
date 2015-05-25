@@ -98,8 +98,6 @@ List
 	-	accessor
 - [ ] [incrmstdev](https://github.com/compute-io/incrmstdev)
 	-	changes may be minimal
-- [ ] [incrmvariance](https://github.com/compute-io/incrmvariance)
-	-	changes may be minimal
 - [ ] [mean](https://github.com/compute-io/mean)
 	-	needs some code ported to flow
 - [ ] [mprod](https://github.com/compute-io/mprod)
