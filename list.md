@@ -28,7 +28,6 @@ List
 - [ ] [linfnorm](https://github.com/compute-io/linfnorm)
 - [ ] [incrstdev](https://github.com/compute-io/incrstdev)
 - [ ] [incrvariance](https://github.com/compute-io/incrvariance)
-- [ ] [incrmax](https://github.com/compute-io/incrmax)
 - [ ] [shuffle](https://github.com/compute-io/shuffle)
 - [ ] [mmin](https://github.com/compute-io/mmin)
 - [ ] [mmax](https://github.com/compute-io/mmax)
