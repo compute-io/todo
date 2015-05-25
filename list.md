@@ -102,8 +102,6 @@ List
 	-	changes may be minimal
 - [ ] [incrmvariance](https://github.com/compute-io/incrmvariance)
 	-	changes may be minimal
-- [ ] [incrmsum](https://github.com/compute-io/incrmsum)
-	-	changes may be minimal
 - [ ] [mean](https://github.com/compute-io/mean)
 	-	needs some code ported to flow
 - [ ] [mprod](https://github.com/compute-io/mprod)
