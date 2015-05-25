@@ -28,7 +28,6 @@ List
 - [ ] [linfnorm](https://github.com/compute-io/linfnorm)
 - [ ] [incrstdev](https://github.com/compute-io/incrstdev)
 - [ ] [incrvariance](https://github.com/compute-io/incrvariance)
-- [ ] [incrsum](https://github.com/compute-io/incrsum)
 - [ ] [incrmax](https://github.com/compute-io/incrmax)
 - [ ] [incrmin](https://github.com/compute-io/incrmin)
 - [ ] [shuffle](https://github.com/compute-io/shuffle)
@@ -142,5 +141,15 @@ List
 - [ ] [anagram-hash](https://github.com/compute-io/anagram-hash)
 	-	see TODO
 	- 	move to dstructs
-
+- [ ] [hclust](https://github.com/compute-io/hclust)
+	-	change name
+	-	polish
+	-	finalize API
+- [ ] [dtype](https://github.com/compute-io/dtype)
+- [ ] [cast](https://github.com/compute-io/cast)
+- [ ] [ndarray](https://github.com/compute-io/ndarray)
+- [ ] [pdist](https://github.com/compute-io/pdist)
+- [ ] [pdist2](https://github.com/compute-io/pdist2)
+- [ ] [gamma](https://github.com/compute-io/gamma)
+- [ ] [gammaln](https://github.com/compute-io/gammaln)
 
