@@ -40,7 +40,16 @@ Update
 		* e.g., function accessors where applicable
 5. move `---` from above the copyright section to above the license section
 6. example in examples section should begin by using `require` to load the module (i.e., include the `require` statement)
-7. 
+7. change the copyright holder from the author to the more generic `The Compute.io Authors.`
+
+
+### License
+
+1. Change the copyright holder from the author to the more generic
+
+	```
+	Copyright (c) <date> The Compute.io Authors. All rights reserved.
+	```
 
 
 ### Dotfiles

@@ -96,8 +96,6 @@ List
 	-	accessor
 - [ ] [mstdev](https://github.com/compute-io/mstdev)
 	-	accessor
-- [ ] [mean](https://github.com/compute-io/mean)
-	-	needs some code ported to flow
 - [ ] [mprod](https://github.com/compute-io/mprod)
 	-	copy option => option to mutate input array; default `copy = true`.
 - [ ] [tversky-index](https://github.com/compute-io/tversky-index)

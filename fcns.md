@@ -22,4 +22,5 @@ Functions
 15. mi
 	-	mutual information
 16. lcgshuffle
-17. 
+17. ndarray
+18. 
