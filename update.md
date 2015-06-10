@@ -40,7 +40,7 @@ Update
 		* e.g., function accessors where applicable
 5. move `---` from above the copyright section to above the license section
 6. example in examples section should begin by using `require` to load the module (i.e., include the `require` statement)
-7. change the copyright holder from the author to the more generic `The Compute.io Authors.`
+7. change the copyright holder from the author to the more generic `The [Compute.io](https://github.com/compute-io) Authors.`
 
 
 ### License
@@ -74,7 +74,7 @@ The `Makefile` included in the `update` directory should replace any existing fi
 
 ### package.json
 
-1. all modules should use Chai `2.x.x` and Mocha `2.x.x`. Simply bump the major version from `1` to `2`.
+1. all modules should use Chai `3.x.x` and Mocha `2.x.x`. Simply bump the major version.
 2. verify keywords
 3. update module description according to general task #1 above.
 4. include `jshint` and `jshint-stylish` as `devDependencies`
@@ -82,7 +82,7 @@ The `Makefile` included in the `update` directory should replace any existing fi
 	``` javascript
 	...,
     "jshint": "2.x.x",
-    "jshint-stylish": "^1.0.0",
+    "jshint-stylish": "2.x.x",
 	...
 	```
 
@@ -117,7 +117,7 @@ The `Makefile` included in the `update` directory should replace any existing fi
 1. remove immediately invoked function wrapper, as not necessary
 2. use [validate.io](https://github.com/validate-io) validators
 	- 	see more recent modules for an example; e.g., [nanquantiles](https://github.com/compute-io/nanquantiles)
-3. where applicable, support accessor option
+3. where applicable, support an accessor option
 	-	see more recent modules for examples; e.g., [prod](https://gitub.com/compute-io/prod) and [nanmedian](https://github.com/compute-io/nanmedian)
 4. Remove the file preamble; i.e., the introductory comment section
 
